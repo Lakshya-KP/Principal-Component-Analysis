@@ -1,2 +1,2 @@
 # Principal-Component-Analysis
-Implement Principle Component Analysis (PCA) algorithm.
+Implement Principle Component Analysis (PCA) algorithm from scratch
